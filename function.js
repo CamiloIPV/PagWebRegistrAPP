@@ -26,5 +26,3 @@ function mostrarImagenQR() {
     imagenQR.alt = 'Código QR para la descarga';
     contenidoDescarga.appendChild(imagenQR);
 }
-
-mostrarContenidoSegunDispositivo();
