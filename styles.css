@@ -1,0 +1,20 @@
+.custom-navbar-brand {
+    font-size: 2rem !important; 
+}
+
+
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.navbar {
+    height: 60px;
+  }
+
+
+  .custom-image-size {
+    max-width: 40%; 
+    height: auto; 
+}
